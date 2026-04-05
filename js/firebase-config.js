@@ -1,5 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBvcID6l6o4LtfpDczSu9D4koXtpFgyzyE",
+  apiKey: "AIzaSyB949RjMy81jQg8Tq9Avn_WXpT3E9fydP0",
   authDomain: "bloodlink-prototype.firebaseapp.com",
   projectId: "bloodlink-prototype",
   storageBucket: "bloodlink-prototype.firebasestorage.app",
