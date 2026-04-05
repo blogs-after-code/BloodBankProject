@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBvcID6l6o4LtfpDczSu9D4koXtpFgyzyE",
+  authDomain: "bloodlink-prototype.firebaseapp.com",
+  projectId: "bloodlink-prototype",
+  storageBucket: "bloodlink-prototype.firebasestorage.app",
+  messagingSenderId: "524053446317",
+  appId: "1:524053446317:web:d916c376f06c4c61791024"
 };
 
 firebase.initializeApp(firebaseConfig);
@@ -20,4 +20,4 @@ db.enablePersistence().catch(err => {
   }
 });
 
-console.log('Firebase initialized successfully');
+console.log("Firebase initialized successfully");
